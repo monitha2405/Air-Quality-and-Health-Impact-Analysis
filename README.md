@@ -23,5 +23,10 @@ This project analyzes and visualizes air quality data to understand potential he
 - Visualized Predicted Impact Class Vs Health Impact Class
 - Mapped pollution intensity for different weather conditions
 
+## Preview of Dashboard
+<img width="492" height="572" alt="Screenshot 2025-07-25 194012" src="https://github.com/user-attachments/assets/bb218d35-ece4-48f1-979a-49ae449acbf6" />
+<img width="1202" height="560" alt="Screenshot 2025-07-25 193953" src="https://github.com/user-attachments/assets/98de38fa-420d-4344-94d7-8e9d55364e28" />
+
+
 ## License
 This project uses open datasets under CC BY 4.0. Anyone is free to fork and reuse with credit.
